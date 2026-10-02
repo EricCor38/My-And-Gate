@@ -17,7 +17,7 @@ This is a combinational circuit and does not use a clock or reset.
 Unused outputs are not part of the demonstrated function.
 
 ## How to test
-
+two input and gate
 In Wokwi, start the simulation and toggle switches 1 and 2.
 Test all four combinations and compare the LED with this table:
 
